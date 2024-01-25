@@ -37,5 +37,6 @@ success {
 echo 'Pipeline successfully executed!'
 }
 failure {
+  //xggcv
 echo 'Pipeline failed!' }
 } }
